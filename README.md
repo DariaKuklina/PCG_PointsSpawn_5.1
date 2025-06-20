@@ -1,7 +1,7 @@
 ## ⚙️ Система процедурной генерации (PCG) объектов
 
 <div align="center" style="margin-bottom: 30px">
-  
+ Для чего используется: для обогащения набора данных сгенерированными синтетическими образцами с целью дальнейшего обучения моделей распознавания
   <!-- Основной скриншот с подписью (ОБНОВЛЁННЫЙ) -->
   <div style="margin-bottom: 25px">
     <img src="https://github.com/DariaKuklina/PCG_PointsSpawn_5.1/blob/main/Spawner_PCG_5.4/screenshots/demo.png?raw=true" 
