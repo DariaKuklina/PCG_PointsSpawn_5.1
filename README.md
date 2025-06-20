@@ -2,9 +2,9 @@
 
 <div align="center" style="margin-bottom: 30px">
   
-  <!-- Основной скриншот с подписью -->
+  <!-- Основной скриншот с подписью (ОБНОВЛЁННЫЙ) -->
   <div style="margin-bottom: 25px">
-    <img src="https://github.com/DariaKuklina/PCG_Spawn_UE5.1/blob/main/PCG_Spawn_UE5,1/screenshots/demo.png?raw=true" 
+    <img src="https://github.com/DariaKuklina/PCG_PointsSpawn_5.1/blob/main/Spawner_PCG_5.4/screenshots/demo.png?raw=true" 
          alt="Процедурное размещение объектов"
          style="border: 1px solid #e1e4e8; border-radius: 10px; box-shadow: 0 6px 16px rgba(0,0,0,0.08); max-width: 85%">
     <p style="margin-top: 12px; font-size: 1.05em; color: #555">
@@ -20,7 +20,7 @@
     </p>
   </div>
 
-  <!-- Скриншот управления с подписью -->
+  <!-- Скриншот управления с подписью (ОБНОВЛЁННЫЙ) -->
   <div style="margin-top: 25px">
     <img src="https://github.com/DariaKuklina/PCG_PointsSpawn_5.1/blob/main/Spawner_PCG_5.4/screenshots/demo_2.png?raw=true" 
          alt="Управление параметрами спавна"
