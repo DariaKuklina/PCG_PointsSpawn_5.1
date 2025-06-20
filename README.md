@@ -22,7 +22,7 @@
 
   <!-- Скриншот управления с подписью -->
   <div style="margin-top: 25px">
-    <img src="https://github.com/DariaKuklina/PCG_Spawn_UE5.1/blob/main/PCG_Spawn_UE5,1/screenshots/demo_2.png?raw=true" 
+    <img src="https://github.com/DariaKuklina/PCG_PointsSpawn_5.1/blob/main/Spawner_PCG_5.4/screenshots/demo_2.png?raw=true" 
          alt="Управление параметрами спавна"
          style="border: 1px solid #e1e4e8; border-radius: 10px; max-width: 65%">
     <p style="margin-top: 12px; font-size: 1.05em; color: #555">
